@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Authenticate Your Rails API with JWT from Scratch
 
-Things you may want to cover:
+* Endpoints
+```
+http://localhost:3000/users
+http://localhost:3000/users/login
+http://localhost:3000/users/confirm
+http://localhost:3000/users/email_update
+http://localhost:3000/users
+http://localhost:3000/users
+http://localhost:3000/users
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
